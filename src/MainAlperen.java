@@ -4,6 +4,6 @@ public class MainAlperen {
         System.out.println("Hello Alperen!");
         System.out.println("How are you?");
         System.out.println("I'm fine thanks.");
-        System.out.println("Glad to see you.");
+        System.out.println("New edit.");
     }
 }
