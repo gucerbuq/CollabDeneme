@@ -7,5 +7,6 @@ public class MainAlperen {
         System.out.println("New edit.");
         System.out.println("Edit 2");
         System.out.println("Edit 3");
+        System.out.println("Edit 4");
     }
 }
